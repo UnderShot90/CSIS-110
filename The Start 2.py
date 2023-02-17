@@ -106,7 +106,7 @@ myScore.addPart(piano2Part)
 myScore.addPart(piano3Part)
 myScore.addPart(piano4Part)
 myScore.addPart(piano5Part)
-myScore.addPart(piano6Part)
+
 Play.midi(myScore)
 #View.notation(myScore) 
 #the program didn't like all of the inputs I was giving it and now veiw.notation no longer works
